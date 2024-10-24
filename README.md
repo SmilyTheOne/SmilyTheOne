@@ -1,10 +1,12 @@
 👋 Welcome on my GitHub !
 
-Currently immersed in an intensive programming pool. Passionate about, security and infrastructure, I am moving towards the DevSecOps field, 
+Currently immersed in an intensive programming pool. Passionate about, security and infrastructure, I am moving towards the DevSecOps field,
 where I want to combine my development and security skills to build secure, efficient and scalable production environments.
 
 
+
 📚 Upcoming projects:
+
 
 • Creation of a video game hosted on a website(expected by the end of 2024),
 
